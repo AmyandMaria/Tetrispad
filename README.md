@@ -1,6 +1,6 @@
 # TETRISPAD
 
-This is a 4 key macropad with an OLED and a knob that I want to use for Tetris on TETR.IO.
+This is a 4 key macropad with an OLED and a knob that I want to use for Tetris on TETR.IO. I play Tetris a lot on my computer, but I wanted a macropad to possibly improve playing performance. 
 
 ## CAD MODEL
 <img width="533" alt="Screen Shot 2025-07-07 at 7 04 19 PM" src="https://github.com/user-attachments/assets/7e86769f-2a00-4f4c-88e8-5e5ee0feda2e" />
